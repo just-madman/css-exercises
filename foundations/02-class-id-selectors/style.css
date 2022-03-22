@@ -1,0 +1,15 @@
+.odd {
+  background-color: tomato;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.three {
+  font-size: 24px;
+}
+#blue {
+  color: rgb(60, 182, 253);
+  font-size: 36px;
+}
+#green {
+  background-color: green;
+  font-weight: bold;
+}
